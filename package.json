@@ -34,7 +34,6 @@
   "dependencies": {
     "chart.js": "2.7.3",
     "classnames": "2.2.6",
-    "gh-pages": "^2.0.1",
     "moment": "2.24.0",
     "node-sass": "4.11.0",
     "nouislider": "13.1.1",
@@ -68,5 +67,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
